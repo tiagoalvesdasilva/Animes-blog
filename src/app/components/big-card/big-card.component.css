@@ -10,7 +10,14 @@
     font-size: 20px;
     margin-top: 15px;
 }
+.big-card__photo img{
+    height: 200px;
+    width: auto;
+    
+}
 .big-card__description p{
     color: grey;
     margin-top: 10px;
+    text-align: justify;
+    width: 350px;
 }
